@@ -3,3 +3,7 @@ A Banglore home price predictor web app. In the backend it uses machine learning
 
 ## Data Link
 * Dataset link can be found [here](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data).
+
+## Hosted at
+
+* Click [here](https://share.streamlit.io/arikato-sanjay/banglore-house-price-predictor/main.py) to view the web app
